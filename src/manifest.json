@@ -9,7 +9,7 @@
         ],
 
     "background": {
-        "service_worker": "js/background.js"
+        "scripts": ["js/background.js"]
     },
 
     "icons": {
