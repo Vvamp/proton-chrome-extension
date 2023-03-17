@@ -1,5 +1,5 @@
-[![Chrome Release][Chrome Web Badge]][https://img.shields.io/chrome-web-store/v/ngonfifpkpeefnhelnfdkficaiihklid?style=for-the-badge]
-[![Firefox Release][Firefox Addon Badge]][https://img.shields.io/amo/v/protondb-steam?style=for-the-badge]
+[![Chrome Release][Chrome Web Badge]][https://img.shields.io/chrome-web-store/v/ngonfifpkpeefnhelnfdkficaiihklid?style=for-the-badge]  
+[![Firefox Release][Firefox Addon Badge]][https://img.shields.io/amo/v/protondb-steam?style=for-the-badge]  
 [![License][License Badge]][https://img.shields.io/github/license/MostwantedRBX/proton-chrome-extension?style=for-the-badge]
 
 <br />
@@ -44,43 +44,43 @@ Upon installing the addon, you'll see proton ratings:
 
 <tr>
 <td>Native</td>
-<td><img src="ss/native.png" width="30%"></td>
+<td><img src="ss/native.png" height="30%"></td>
 <td>Green</td>
 </tr>
 
 <tr>
 <td>Platinum</td>
-<td><img src="ss/platinum.png" width="30%"></td>
+<td><img src="ss/platinum.png" height="30%"></td>
 <td>Silver</td>
 </tr>
 
 <tr>
 <td>Gold</td>
-<td><img src="ss/gold.png" width="30%"></td>
+<td><img src="ss/gold.png" height="30%"></td>
 <td>Gold</td>
 </tr>
 
 <tr>
 <td>Silver</td>
-<td><img src="ss/silver.png" width="30%"></td>
+<td><img src="ss/silver.png" height="30%"></td>
 <td>Silver</td>
 </tr>
 
 <tr>
 <td>Bronze</td>
-<td><img src="ss/bronze.png" width="30%"></td>
+<td><img src="ss/bronze.png" height="30%"></td>
 <td>Bronze</td>
 </tr>
 
 <tr>
 <td>Borked</td>
-<td><img src="ss/borked.png" width="30%"></td>
+<td><img src="ss/borked.png" height="30%"></td>
 <td>Red</td>
 </tr>
 
 <tr>
 <td>Pending</td>
-<td><img src="ss/pending.png" width="30%"></td>
+<td><img src="ss/pending.png" height="30%"></td>
 <td>Gray</td>
 </tr>
 </table>
