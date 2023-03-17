@@ -1,7 +1,7 @@
 <div align="center">
 <!-- This linebreak is required to allow for markdown processing within an html block-->
 
-![Chrome Release](https://img.shields.io/chrome-web-store/v/ngonfifpkpeefnhelnfdkficaiihklid?style=for-the-badge)
+[![Chrome Release](https://img.shields.io/chrome-web-store/v/ngonfifpkpeefnhelnfdkficaiihklid?style=for-the-badge)](https://google.com)
 ![Firefox Release](https://img.shields.io/amo/v/protondb-steam?style=for-the-badge)
 ![License](https://img.shields.io/github/license/MostwantedRBX/proton-chrome-extension?style=for-the-badge)
 </div>
