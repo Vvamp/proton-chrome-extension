@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" markdown="1">
 ![Chrome Release](https://img.shields.io/chrome-web-store/v/ngonfifpkpeefnhelnfdkficaiihklid?style=for-the-badge)
 ![Firefox Release](https://img.shields.io/amo/v/protondb-steam?style=for-the-badge)
 ![License](https://img.shields.io/github/license/MostwantedRBX/proton-chrome-extension?style=for-the-badge)
