@@ -1,4 +1,6 @@
-<div align="center" markdown=1>
+<div align="center">
+    <img src="https://img.shields.io/chrome-web-store/v/ngonfifpkpeefnhelnfdkficaiihklid?style=for-the-badge" alt="ProtonDB For Steam Logo">
+
 ![Chrome Release](https://img.shields.io/chrome-web-store/v/ngonfifpkpeefnhelnfdkficaiihklid?style=for-the-badge)
 ![Firefox Release](https://img.shields.io/amo/v/protondb-steam?style=for-the-badge)
 ![License](https://img.shields.io/github/license/MostwantedRBX/proton-chrome-extension?style=for-the-badge)
