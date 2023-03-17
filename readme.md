@@ -1,36 +1,103 @@
-# ProtonDB extension for Chrome
+[![Chrome Release][Chrome Web Badge]][https://img.shields.io/chrome-web-store/v/ngonfifpkpeefnhelnfdkficaiihklid?style=for-the-badge]
+[![Firefox Release][Firefox Addon Badge]][https://img.shields.io/amo/v/protondb-steam?style=for-the-badge]
+[![License][License Badge]][https://img.shields.io/github/license/MostwantedRBX/proton-chrome-extension?style=for-the-badge]
 
+<br />
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="src/icons/proton_128.png" alt="ProtonDB For Steam Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">ProtonDB For Steam</h3>
+
+  <p align="center">
+    Show protondb badges on the steam store!
+    <br />
+    <br />
+   
+    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+  </p>
+</div>
+
+
+## About the project
 This extension fetches the proton rating from protondb and displays it & a link to the protondb page nicely by the title of the game. This lets you know how well the game will preform utilizing steams proton layer.
-### The proton rankings are as such:
+  
+Upon installing the addon, you'll see proton ratings:
+- On a game's store page
+- On the search box, when searching for games
+- On the search results page
+- On the front page<sup>COMING SOON</sup>
 
-![Native Badge](ss/native.png)
-
-![Platinum Badge](ss/platinum.png)
-
-![Gold Badge](ss/gold.png)
-
-![Silver Badge](ss/silver.png)
-
-![Bronze Badge](ss/bronze.png)
-
-![Borked Badge](ss/borked.png)
-
-![Pending Badge](ss/pending.png)
-
-
-## The rating shows up on the Steam game's store page.
-
+## Screenshots
 ![Proton extension on steam page](ss/ss1.png)
+
+### The proton rankings are as such:
+<table>
+<tr>
+<th>Rating</th>
+<th>Badge</th>
+<th>Color</th>
+</tr>
+
+<tr>
+<td>Native</td>
+<td><img src="ss/native.png" width="30%"></td>
+<td>Green</td>
+</tr>
+
+<tr>
+<td>Platinum</td>
+<td><img src="ss/platinum.png" width="30%"></td>
+<td>Silver</td>
+</tr>
+
+<tr>
+<td>Gold</td>
+<td><img src="ss/gold.png" width="30%"></td>
+<td>Gold</td>
+</tr>
+
+<tr>
+<td>Silver</td>
+<td><img src="ss/silver.png" width="30%"></td>
+<td>Silver</td>
+</tr>
+
+<tr>
+<td>Bronze</td>
+<td><img src="ss/bronze.png" width="30%"></td>
+<td>Bronze</td>
+</tr>
+
+<tr>
+<td>Borked</td>
+<td><img src="ss/borked.png" width="30%"></td>
+<td>Red</td>
+</tr>
+
+<tr>
+<td>Pending</td>
+<td><img src="ss/pending.png" width="30%"></td>
+<td>Gray</td>
+</tr>
+</table>
 
 <br />
 
-## To Install:
-### Chrome Webstore
+## Getting Started
+### Installing via the Chrome Webstore
  - Go to the [extension's store page](https://chrome.google.com/webstore/detail/protondb-for-steam/ngonfifpkpeefnhelnfdkficaiihklid)
  - Press the button 'add to chrome'. 
-### Manually
- - Download / clone the source code with `git clone https://github.com/MostwantedRBX/proton-chrome-extension.git`
- - Go to the url `chrome://extensions`
- - Enable "Developer Mode" in the top right of the screen
- - Select "Load Unpacked" in the top left of the screen and point it to the src folder in the cloned repository.
- ![Enable Dev mode and select src folder](ss/load_unpacked.png)
+### Installing via the Firefox Addons
+- Go to the [addon store page](https://addons.mozilla.org/en-US/firefox/addon/protondb-steam)
+- Click the button 'add to firefox'.
+### Installing via the edge addons
+- Go to the [addon store page](https://microsoftedge.microsoft.com/addons/detail/protondb-for-steam/efggpghjemjhldhoemgijjpnajcidcni)
+- Press the button 'get'.
+### Installing Manually (Chrome-based browsers only!)
+ - [Download the latest release](https://github.com/MostwantedRBX/proton-chrome-extension/releases)
+ - Go to the extensions page: ```chrome://extensions```
+ - Drop the downloaded zip into the extension page
