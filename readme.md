@@ -1,10 +1,10 @@
-[![Chrome Release][Chrome-Web-Badge]][https://img.shields.io/chrome-web-store/v/ngonfifpkpeefnhelnfdkficaiihklid?style=for-the-badge]  
-[![Firefox Release][Firefox-Addon-Badge]][https://img.shields.io/amo/v/protondb-steam?style=for-the-badge]  
-[![License][License-Badge]][https://img.shields.io/github/license/MostwantedRBX/proton-chrome-extension?style=for-the-badge]
+![Chrome Release](https://img.shields.io/chrome-web-store/v/ngonfifpkpeefnhelnfdkficaiihklid?style=for-the-badge)
+![Firefox Release](https://img.shields.io/amo/v/protondb-steam?style=for-the-badge)
+![License](https://img.shields.io/github/license/MostwantedRBX/proton-chrome-extension?style=for-the-badge)
 
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/MostwantedRBX/proton-chrome-extension">
     <img src="src/icons/proton_128.png" alt="ProtonDB For Steam Logo" width="80" height="80">
   </a>
 
@@ -15,9 +15,9 @@
     <br />
     <br />
    
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/MostwantedRBX/proton-chrome-extension/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/MostwantedRBX/proton-chrome-extension/issues">Request Feature</a>
   </p>
 </div>
 
