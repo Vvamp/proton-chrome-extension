@@ -1,9 +1,10 @@
 <div align="center">
-<!-- This linebreak is required to allow for markdown processing within an html block-->
+    <a href="https://chrome.google.com/webstore/detail/protondb-for-steam/ngonfifpkpeefnhelnfdkficaiihklid" target="_blank" title="Download on the chrome webstore"><img src="https://img.shields.io/chrome-web-store/v/ngonfifpkpeefnhelnfdkficaiihklid?style=for-the-badge" alt="Chrome webstore link" ></a>
+    <a href="https://addons.mozilla.org/en-US/firefox/addon/protondb-steam" target="_blank" title="Download on the firefox addon store"><img src="https://img.shields.io/amo/v/protondb-steam?style=for-the-badge" alt="Firefox addon store link" ></a>
+    <a href="https://github.com/MostwantedRBX/proton-chrome-extension/releases/latest" target="_blank" title="Download latest release"><img src="https://img.shields.io/github/v/tag/MostwantedRBX/proton-chrome-extension?sort=semver&style=for-the-badge" alt="Github latest release link" ></a>
+    <!-- Edge badge is not yet available om shields.io-->
+    <a href="LICENSE" target="_blank" title="License"><img src="https://img.shields.io/github/license/MostwantedRBX/proton-chrome-extension?style=for-the-badge" alt="License link" ></a>
 
-[![Chrome Release](https://img.shields.io/chrome-web-store/v/ngonfifpkpeefnhelnfdkficaiihklid?style=for-the-badge)](https://google.com)[newtab]
-![Firefox Release](https://img.shields.io/amo/v/protondb-steam?style=for-the-badge)
-![License](https://img.shields.io/github/license/MostwantedRBX/proton-chrome-extension?style=for-the-badge)
 </div>
 <br />
 <div align="center">
@@ -101,6 +102,6 @@ Upon installing the addon, you'll see proton ratings:
 - Go to the [addon store page](https://microsoftedge.microsoft.com/addons/detail/protondb-for-steam/efggpghjemjhldhoemgijjpnajcidcni)
 - Press the button 'get'.
 ### Installing Manually (Chrome-based browsers only!)
- - [Download the latest release](https://github.com/MostwantedRBX/proton-chrome-extension/releases)
+ - [Download the latest release](https://github.com/MostwantedRBX/proton-chrome-extension/releases/latest)
  - Go to the extensions page: ```chrome://extensions```
  - Drop the downloaded zip into the extension page
