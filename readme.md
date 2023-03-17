@@ -1,7 +1,8 @@
+<div align="center">
 ![Chrome Release](https://img.shields.io/chrome-web-store/v/ngonfifpkpeefnhelnfdkficaiihklid?style=for-the-badge)
 ![Firefox Release](https://img.shields.io/amo/v/protondb-steam?style=for-the-badge)
 ![License](https://img.shields.io/github/license/MostwantedRBX/proton-chrome-extension?style=for-the-badge)
-
+</div>
 <br />
 <div align="center">
   <a href="https://github.com/MostwantedRBX/proton-chrome-extension">
