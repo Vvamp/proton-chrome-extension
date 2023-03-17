@@ -18,7 +18,6 @@
     Show protondb badges on the steam store!
     <br />
     <br />
-   
     <a href="https://github.com/MostwantedRBX/proton-chrome-extension/issues">Report Bug</a>
     ·
     <a href="https://github.com/MostwantedRBX/proton-chrome-extension/issues">Request Feature</a>
