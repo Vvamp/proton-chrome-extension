@@ -1,4 +1,5 @@
 <div align="center">
+<!-- This linebreak is required to allow for markdown processing within an html block-->
 
 ![Chrome Release](https://img.shields.io/chrome-web-store/v/ngonfifpkpeefnhelnfdkficaiihklid?style=for-the-badge)
 ![Firefox Release](https://img.shields.io/amo/v/protondb-steam?style=for-the-badge)
