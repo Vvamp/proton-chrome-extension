@@ -1,6 +1,6 @@
-[![Chrome Release][Chrome Web Badge]][https://img.shields.io/chrome-web-store/v/ngonfifpkpeefnhelnfdkficaiihklid?style=for-the-badge]  
-[![Firefox Release][Firefox Addon Badge]][https://img.shields.io/amo/v/protondb-steam?style=for-the-badge]  
-[![License][License Badge]][https://img.shields.io/github/license/MostwantedRBX/proton-chrome-extension?style=for-the-badge]
+[![Chrome Release][Chrome-Web-Badge]][https://img.shields.io/chrome-web-store/v/ngonfifpkpeefnhelnfdkficaiihklid?style=for-the-badge]  
+[![Firefox Release][Firefox-Addon-Badge]][https://img.shields.io/amo/v/protondb-steam?style=for-the-badge]  
+[![License][License-Badge]][https://img.shields.io/github/license/MostwantedRBX/proton-chrome-extension?style=for-the-badge]
 
 <br />
 <div align="center">
