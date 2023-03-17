@@ -106,7 +106,7 @@ Upon installing the addon, you'll see proton ratings:
  - Drop the downloaded zip into the extension page
 
 ## Contributing
-Missing any features, experiences issues or have any other feedback? Submit an issue!
+Missing any features, experiences issues or have any other feedback? <a href="https://github.com/MostwantedRBX/proton-chrome-extension/issues" target="_blank">Submit an issue!</a>
 
 Rather contribute yourself? Feel free!
 1. Fork the Project
