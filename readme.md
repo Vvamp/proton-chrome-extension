@@ -18,9 +18,9 @@
     Show protondb badges on the steam store!
     <br />
     <br />
-    <a href="https://github.com/MostwantedRBX/proton-chrome-extension/issues">Report Bug</a>
+    <a href="https://github.com/MostwantedRBX/proton-chrome-extension/issues" target="_blank">Report Bug</a>
     ·
-    <a href="https://github.com/MostwantedRBX/proton-chrome-extension/issues">Request Feature</a>
+    <a href="https://github.com/MostwantedRBX/proton-chrome-extension/issues" target="_blank">Request Feature</a>
   </p>
 </div>
 
@@ -32,7 +32,7 @@ Upon installing the addon, you'll see proton ratings:
 - On a game's store page
 - On the search box, when searching for games
 - On the search results page
-- On the front page<sup>COMING SOON</sup>
+- On the front page <sup>COMING SOON</sup>
 
 ## Screenshots
 ![Proton extension on steam page](ss/ss1.png)
@@ -104,3 +104,18 @@ Upon installing the addon, you'll see proton ratings:
  - [Download the latest release](https://github.com/MostwantedRBX/proton-chrome-extension/releases/latest)
  - Go to the extensions page: ```chrome://extensions```
  - Drop the downloaded zip into the extension page
+
+## Contributing
+Missing any features, experiences issues or have any other feedback? Submit an issue!
+
+Rather contribute yourself? Feel free!
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+## License
+ This project is licensed under the MIT license. Check [LICENSE](LICENSE) for more information.
+
