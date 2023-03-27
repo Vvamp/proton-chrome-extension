@@ -23,4 +23,4 @@ jobs:
         run: python generate.py
       - name: Check file
         working-directory: ./build/
-        run: ls output/
+        run: ls output/chrome
