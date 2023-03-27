@@ -9,7 +9,7 @@
     },
     "icons": {icons},
     "content_scripts": {content_scripts},
-    "browser_specific_settings": { 
+    "browser_specific_settings": {
         "gecko": {firefox}
     }
 }
