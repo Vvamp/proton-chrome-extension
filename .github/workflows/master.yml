@@ -18,12 +18,9 @@ jobs:
         uses: actions/setup-python@v3
         with:
           python-version: ${{ matrix.python-version }}
-      - name: Change Dir
-        run: |
-          cd build/
       - name: Run build tool
-        run: |
-          python generate.py
+        working-directory: ./build/
+        run: python generate.py
       - name: Check file
-        run: |  
-          ls output/
+        working-directory: ./build/
+        run: ls output/
